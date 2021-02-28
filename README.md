@@ -1,5 +1,3 @@
-### Hi there 👋, Akash Sourav Nayak
-#### Fullstack Developer
 ![Fullstack Developer](https://github.com/AkashSouravNayak/AkashSouravNayak/blob/main/Banner.png)
 
 I'm Akash from India and I am a full stack developer. I really enjoy learning new technology and tools like React and Nodejs, as well as work in Spring ,Aws ,Firebase.  
