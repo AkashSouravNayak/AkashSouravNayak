@@ -1,6 +1,5 @@
 ![Fullstack Developer](https://github.com/AkashSouravNayak/AkashSouravNayak/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Akash Sourav Nayak</h1>
 <h3 align="center">I'm Akash from India and I am a full stack developer. I really enjoy learning new technology and tools like React and Nodejs, as well as work in Spring ,Aws ,Firebase.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsouravnayak&label=Profile%20views&color=0e75b6&style=flat" alt="akashsouravnayak" /> </p>
