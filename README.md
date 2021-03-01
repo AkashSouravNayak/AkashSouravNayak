@@ -1,4 +1,4 @@
-![Fullstack Developer](https://github.com/AkashSouravNayak/AkashSouravNayak/blob/main/Banner.png)
+![Fullstack Developer](https://github.com/AkashSouravNayak/AkashSouravNayak/blob/main/Akash%20Sourav%20Nayak.gif)
 
 <h3 align="center">I'm Akash from India and I am a full stack developer. I really enjoy learning new technology and tools like React and Nodejs, as well as work in Spring ,Aws ,Firebase.</h3>
 
