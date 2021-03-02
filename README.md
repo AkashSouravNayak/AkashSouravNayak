@@ -13,7 +13,6 @@
 - 📫 How to reach me **akash.sourav.nayak@gmail.com**
 
     <h3 align="left">Technology && Tools:</h3>
-    <h3 align="left">Technology && Tools:</h3>
     <p align="left">
         <a href="https://www.w3.org/html/" target="_blank">
             <img
